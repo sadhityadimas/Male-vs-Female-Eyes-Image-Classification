@@ -3,7 +3,7 @@ Male vs Female Eyes image classification
 Project using Google colab
 
 * Dataset is provided by Kaggle uploaded by PavelBiz
-* Link to File : https://www.kaggle.com/pavelbiz/eyes-rtte/code
+* Link to File : https://www.kaggle.com/pavelbiz/eyes-rtte/
 * The dataset can be fetch using kaggle library on colab 
 * 11.525 samples
 * 80:20 train test split
